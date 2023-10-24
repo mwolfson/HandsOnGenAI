@@ -8,8 +8,6 @@ In this hands-on workshop, participants will embark on a journey into the realm 
 
 ***
 
-## FOLLOW ALONG
-
 **--> [NOTEBOOK](./handsOnGenAI.ipynb) <--**
 
 This repository is in support of a workshop helping developers get started using Python, and Jupyter notebooks to work with Generative AI services.
