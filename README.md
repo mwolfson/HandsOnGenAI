@@ -1,6 +1,8 @@
 # Hands-on: Getting Started with Generative AI APIs
 ### by Mike Wolfson
+### **Phoenix Mobile & Emerging Technology** - 2/15/24
 ### **DevFest Vancouver** - 11/18/2023
+### **DevFest Waterloo** - 10/21/2023
 
 ![GenerativeAI Created Hands](./assets/hands.png)
 
